@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "npx nodemon",
-    "migrate": "DATABASE_URL=postgres://postgres:postgres@localhost:5432/mig_demo node-pg-migrate --tsconfig=\"./tsconfig.json\" -j=\"ts\" -f=\"./src/config/default.json\" "
+    "migrate": "DATABASE_URL=postgres://postgres:postgres@localhost:5432/mig_demo node-pg-migrate --tsconfig=./tsconfig.json -j=ts "
   },
   "author": "",
   "license": "ISC",
