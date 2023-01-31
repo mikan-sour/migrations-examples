@@ -1,6 +1,7 @@
 # Running migrations
-up
+
+## up
 > npm run migrate up
 
-down
+## down
 > npm run migrate down
