@@ -1,0 +1,3 @@
+BEGIN;
+DELETE FROM app.users WHERE 1 = 1;
+COMMIT;
