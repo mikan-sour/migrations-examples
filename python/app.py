@@ -1,0 +1,1 @@
+database = "postgres://postgres:postgres@localhost:5432/mig_demo"

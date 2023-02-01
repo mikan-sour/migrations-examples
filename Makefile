@@ -6,3 +6,8 @@ up:
 
 down:
 	docker-compose down -v
+
+python_venv:
+	cd python && source bin/activate
+python_venv_down:
+	cd python && deactivate

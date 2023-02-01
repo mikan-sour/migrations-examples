@@ -2,3 +2,10 @@ data/
 
 node/node_modules
 node/package-lock.json
+
+python/lib
+python/bin
+python/include
+python/pyvenv.cfg
+python/migrations
+yoyo.ini
