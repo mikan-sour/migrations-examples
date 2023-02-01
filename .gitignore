@@ -7,5 +7,3 @@ python/lib
 python/bin
 python/include
 python/pyvenv.cfg
-python/migrations
-yoyo.ini
